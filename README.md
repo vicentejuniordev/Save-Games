@@ -1,4 +1,9 @@
 # Save-Games 💾 🕹️
+
+<div align="center" style="margin: 0; padding: 0;">
+  <img src="docs/img/SAVE(4).png" width="100" style="display:block; margin:0 auto;">
+</div>
+
 Um app para você que quer organizar os jogos que deseja jogar ou já concluiu, além de ter uma comunidade onde pode ver reviews de jogos finalizados e criar sua própria lista de jogos de cada console, especificando a sua nota em relação ao jogo.
 
 #### 🚧 Em Desenvolvimento
