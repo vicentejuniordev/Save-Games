@@ -8,6 +8,12 @@ Um app para você que quer organizar os jogos que deseja jogar ou já concluiu, 
 
 #### 🚧 Em Desenvolvimento
 
+#### ⚙️ Arquitetura Backend
+ A arquitetura escolhida para o projeto será a `Monolítica Modular`, por conta de ao mesmo tempo ser um pouco mais simples de implementar e detém um baixo acoplamento devido aos módulos que ficam responsáveis por cada domínio da aplicação.
+
+#### 🏛️ Arquitetura FrontEnd
+
+
 #### 🎨 Design
 O design do app está sendo prototipado no Figma. 
 
